@@ -4,7 +4,6 @@ C:\Users\Rodrigo\OneDrive\Documents\Proyectos\Csharp\bin\Debug\netcoreapp2.1\Csh
 C:\Users\Rodrigo\OneDrive\Documents\Proyectos\Csharp\bin\Debug\netcoreapp2.1\Csharp.dll
 C:\Users\Rodrigo\OneDrive\Documents\Proyectos\Csharp\bin\Debug\netcoreapp2.1\Csharp.pdb
 C:\Users\Rodrigo\OneDrive\Documents\Proyectos\Csharp\obj\Debug\netcoreapp2.1\Csharp.csprojAssemblyReference.cache
-C:\Users\Rodrigo\OneDrive\Documents\Proyectos\Csharp\obj\Debug\netcoreapp2.1\Csharp.csproj.CoreCompileInputs.cache
 C:\Users\Rodrigo\OneDrive\Documents\Proyectos\Csharp\obj\Debug\netcoreapp2.1\Csharp.AssemblyInfoInputs.cache
 C:\Users\Rodrigo\OneDrive\Documents\Proyectos\Csharp\obj\Debug\netcoreapp2.1\Csharp.AssemblyInfo.cs
 C:\Users\Rodrigo\OneDrive\Documents\Proyectos\Csharp\obj\Debug\netcoreapp2.1\Csharp.dll
