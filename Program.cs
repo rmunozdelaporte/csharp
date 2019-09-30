@@ -3,23 +3,20 @@ using System.Threading;
 
 class Program
 {
-    static void Wait()
+    static void MyMethod()
     {
-        Console.WriteLine("Waiting...");
-        Thread.Sleep(3000);
-        Console.WriteLine("Done");
+        int total = 0;
+        Console.WriteLine("Waiting...");       
+        Console.WriteLine(total);
     }
 
-    static void CountToThree()
-    {
-        Console.WriteLine(1);
-        Console.WriteLine(2);
-        Console.WriteLine(3);
-    }
     static void Main(string[] args)
     {
-        Wait();
-        CountToThree();
+        int total = 0;
+        total += 10;
+        MyMethod();
+        Console.WriteLine("Total in Main: ");
+        Console.WriteLine(total);
     }
 }
 
