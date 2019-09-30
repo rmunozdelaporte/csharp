@@ -1,14 +1,25 @@
 ﻿using System;
+using System.Threading;
 
 class Program
 {
+    static void Wait()
+    {
+        Console.WriteLine("Waiting...");
+        Thread.Sleep(3000);
+        Console.WriteLine("Done");
+    }
+
+    static void CountToThree()
+    {
+        Console.WriteLine(1);
+        Console.WriteLine(2);
+        Console.WriteLine(3);
+    }
     static void Main(string[] args)
     {
-        Random generator = new Random();
-        double randomNumber = generator.NextDouble();
-        double roundedNumber = Math.Round(randomNumber, 1);
-        
-        Console.WriteLine(roundedNumber);
+        Wait();
+        CountToThree();
     }
 }
 
